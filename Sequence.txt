@@ -5,5 +5,5 @@
 5. create_profession.sql
 6. create_city_state.sql
 7. create_email.sql
-8. create_status.sql
+8. create_interests.sql
 9. create_seeking.sql
